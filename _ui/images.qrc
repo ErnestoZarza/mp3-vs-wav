@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>../images/Presentacion.jpg</file>
+    <file>C:/Users/Ernesto Zarza/Documents/Nueva carpeta/mp3.jpg</file>
+    <file>C:/Users/Ernesto Zarza/Documents/Nueva carpeta/wav.png</file>
+    <file>images/Presentacion1.jpg</file>
+    <file>images/volumen.jpg</file>
+    <file>images/7ea48fb278ac14b39e70545911964c5035a0f46d.jpg</file>
+    <file>images/good.png</file>
+    <file>images/goodd.png</file>
+    <file>images/images.jpg</file>
+    <file>images/good.png</file>
+    <file>images/goodd.png</file>
+    <file>images/imagesaaaaaaa.jpg</file>
+    <file>images/volumen.jpg</file>
+    <file>images/wrong.png</file>
+    <file>images/wrongg.png</file>
+  </qresource>
+</RCC>
